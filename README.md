@@ -23,7 +23,7 @@ Supports interactive sessions with users, maintaining context over multiple inte
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Chatbot-NLP.git
+    git clone https://github.com/yourusername/ConvoAI.git
     cd Chatbot-NLP
     ```
 
