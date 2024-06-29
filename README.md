@@ -44,6 +44,8 @@ Supports interactive sessions with users, maintaining context over multiple inte
     python src/chatbot.py
     ```
 
-## License
+## Contributing
+Contributions are welcome! Feel free to open issues or pull requests for any improvements or feature requests.
 
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
