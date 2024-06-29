@@ -1,20 +1,15 @@
-# Chatbot-NLP
+# ConvoAI: Conversational AI using NLP
 
-This is a simple chatbot developed using Python and NLTK for a customer service platform. The project won the "Best Use of AI" award at a hackathon.
+ConvoAI is a Python-based project that implements a chatbot using natural language processing (NLP) techniques. It aims to provide a seamless conversational experience through text input.
 
-## Project Structure
-Chatbot-NLP/
-├── data/
-│ ├── intents.json
-├── src/
-│ ├── chatbot.py
-│ ├── train.py
-├── notebooks/
-│ ├── Chatbot_NLP.ipynb
-├── README.md
-├── requirements.txt
-├── LICENSE
+## Features
 
+### NLP-Powered Chatbot: 
+Utilizes advanced NLP models for understanding and generating responses.
+### Customizable Responses: 
+Easily integrate and customize responses based on specific use cases.
+### User Interaction: 
+Supports interactive sessions with users, maintaining context over multiple interactions.
 
 ## Requirements
 
